@@ -21,7 +21,9 @@
     "body-parser": "^1.19.0",
     "cors": "^2.8.5",
     "express": "^4.17.1",
+    "md5js": "^1.0.7",
     "mysql2": "^2.3.2",
-    "sequelize": "^6.7.0"
+    "sequelize": "^6.7.0",
+    "sequelize-cli": "^6.2.0"
   }
 }
